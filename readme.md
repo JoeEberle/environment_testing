@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Environment Testing  - Makes sure all your computing resources are ready to perform complex workflows. 
 Makes sure all your computing resources are ready to perform complex workflows. 
 
@@ -9,8 +11,6 @@ Welcome to the solution **Environment Testing ** - an example for your projects
 Makes sure all your computing resources are ready to perform complex workflows. 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
