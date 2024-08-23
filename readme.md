@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Environment Testing  - Makes sure all your computing resources are ready to perform complex workflows. 
-Makes sure all your computing resources are ready to perform complex workflows. 
+# Environment Testing  - nan
+nan
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Environment Testing ** - an example for your projects
 
-Makes sure all your computing resources are ready to perform complex workflows. 
+nan
 
 ![Image image_filename](sample.png)
 
