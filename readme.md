@@ -2,7 +2,7 @@
 Welcome to the solution **Environment Testing ** - an example for your projects
 
 Makes sure all your computing resources are ready to perform complex workflows. 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
